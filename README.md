@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte,Kotlin,**
 
-- 👨‍💻 All of my projects are available at [https://srisaipavan.my.canva.site/](https://srisaipavan.my.canva.site/)
+- 👨‍💻 Few of my full stack projects are available at [https://srisaipavan.my.canva.site/](https://srisaipavan.my.canva.site/)
 
 - 📫 How to reach me **srisaipavans@gmail.com**
 
